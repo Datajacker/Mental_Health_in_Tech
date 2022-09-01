@@ -37,7 +37,7 @@ The detailed dataset and description of features can be accessed [here](https://
   ├── Presentation.pdf   
   ├── survey.csv                                # Input data
   └── Mental Health in Tech Survey.ipynb
-
+```
 ## How to interact with my project
 You can send pull request or suggestions to me.
 
@@ -48,7 +48,7 @@ You can send pull request or suggestions to me.
 * [Silhouette Coefficient](https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c)
 
 ## Author
-- [ ] Jiaqiang Yi 
+- [ ] Jiaqiang Yi
 - [ ] email: jyi3@ualberta.ca
 
 ## Licensing, author, acknowledgement
