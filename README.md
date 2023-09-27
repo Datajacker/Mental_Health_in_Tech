@@ -1,5 +1,5 @@
 # Mental Health In Tech
-The repository concerns the Mental Health in Tech analysis, which takes data from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
+The repository concerns the Mental Health in Tech analysis, which takes data from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. This is also a record for one interview case.
 * One post about this project has been shared on [medium](https://jyi3.medium.com/cluster-from-people-in-the-tech-industry-survey-4a33edf05f8a)
 
 * The steps of the data science process: **Data cleaning, Exploratory analysis, Feature Engineering, Clustering, Cluster interpretation, Conclusion**
